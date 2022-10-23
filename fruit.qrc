@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imag/3.png</file>
+        <file>imag/4.png</file>
+        <file>imag/5.png</file>
+        <file>imag/6.png</file>
+        <file>imag/7.png</file>
+        <file>imag/8.png</file>
+        <file>imag/9.png</file>
+        <file>imag/10.png</file>
+        <file>imag/11.png</file>
+        <file>imag/12.png</file>
+        <file>imag/addone.png</file>
+        <file>imag/blank.png</file>
+        <file>imag/flash.png</file>
+        <file>imag/hint.png</file>
+        <file>imag/shuffle.png</file>
+        <file>imag/p1.png</file>
+        <file>imag/p2.png</file>
+    </qresource>
+</RCC>
